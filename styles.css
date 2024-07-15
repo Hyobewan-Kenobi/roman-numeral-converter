@@ -1,0 +1,26 @@
+
+:root {
+    background-image: linear-gradient(to right top, #32ffb4, #00f4da, #00e6f5, #00d5ff, #35c2ff, #4bc1fd, #5cc0fb, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+body {
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+h1{
+    font-size: 2rem;
+}
+
+
+.display-container{
+    background-color: #ffffff;
+    height: auto;
+    padding: 40px 40px 40px 40px;
+    margin: 20px 20px 20px 20px;
+    border-radius: 1rem;
+}
